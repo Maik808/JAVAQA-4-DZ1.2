@@ -48,7 +48,7 @@ https://github.com/Maik808/JAVAQA-4-DZ1.2/issues/3#issue-565423197
 
 
 
-В качестве тестовых данных использовались данные сайта для генерации номеров карт https://www.getcreditcardnumbers.com/:
+В качестве тестовых данных использовались данные сайта для генерации номеров карт https://www.getcreditcardnumbers.com/:   
 Ключи для проверки   
 Валидные ключи:      
   Mastercard   
